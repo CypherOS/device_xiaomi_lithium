@@ -31,7 +31,7 @@ AUDIO_FEATURE_ELLIPTIC_ULTRASOUND_SUPPORT := true
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 
 # Kernel
-TARGET_KERNEL_CONFIG := lithium_defconfig
+TARGET_KERNEL_CONFIG := aoscp_lithium_defconfig
 
 # NFC
 NXP_CHIP_TYPE := 3
